@@ -1,2 +1,3 @@
 # GetQuake
-Gives information about earthquake(data fetched from a server)
+App that displays data about earthquakes in a RecyclerVIew fetching data from USGS server using  api, parsing JSON response and displaying data to user.  
+(app resources are available in master branch)
